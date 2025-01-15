@@ -25,10 +25,10 @@ export const SubFooter = () => {
           <h2 className="text-center text-white font-alt mb-4">Obtenga la aplicación ahora!</h2>
           <div className="d-flex flex-column flex-lg-row align-items-center justify-content-center">
             <a className="me-lg-3 mb-4 mb-lg-0" href="https://play.google.com/store/apps/details?id=co.carsok.fleteo" target="_blank" rel="noopener noreferrer">
-              <img className="app-badge" src="assets/img/google-play-badge.svg" alt="Google Play" />
+              <img className="app-badge" src="assets/google-play-badge.svg" alt="Google Play" />
             </a>
             <a href="https://apps.apple.com/us/app/fleteo/id6477316738" target="_blank" rel="noopener noreferrer">
-              <img className="app-badge" src="assets/img/app-store-badge.svg" alt="App Store" />
+              <img className="app-badge" src="assets/app-store-badge.svg" alt="App Store" />
             </a>
           </div>
         </div>

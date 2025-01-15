@@ -5,7 +5,7 @@ export const Aside = () => {
 				<div className="row gx-5 justify-content-center">
 					<div className="col-xl-8">
 						<div className="h2 fs-1 text-white mb-4">Tu socio confiable para información instantánea!</div>
-						<img src="../assets/img/logo-fleteo-blanco.png" alt="Logo Fleteo" style={{ height: '8rem' }} />
+						<img src="assets/logo-fleteo-blanco.png" alt="Logo Fleteo" style={{ height: '8rem' }} />
 					</div>
 				</div>
 			</div>

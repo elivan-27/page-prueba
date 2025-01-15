@@ -53,7 +53,7 @@ export const Features = () => {
 							<div className="device-wrapper">
 								<div className="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">
 									<div className="screen bg-black">
-										<img src="assets/img/screen-fleteo-page.jpeg" style={{ maxWidth: '100%', height: '100%' }} alt="Pagina de automotores Fleteo" />
+										<img src="assets/screen-fleteo-page.jpeg" style={{ maxWidth: '100%', height: '100%' }} alt="Pagina de automotores Fleteo" />
 									</div>
 								</div>
 							</div>

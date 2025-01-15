@@ -9,10 +9,10 @@ export const HomeHeader = () => {
 							<p className="lead fw-normal text-muted mb-5">Fleteo, la app que brinda acceso rápido y confiable a información esencial sobre automóviles y personas.</p>
 							<div className="d-flex flex-column flex-lg-row align-items-center">
 								<a className="me-lg-3 mb-4 mb-lg-0" href="https://play.google.com/store/apps/details?id=co.carsok.fleteo" target="_blank" rel="noopener noreferrer">
-									<img className="app-badge" src="assets/img/google-play-badge.svg" alt="Google Play Badge" />
+									<img className="app-badge" src="assets/google-play-badge.svg" alt="Google Play Badge" />
 								</a>
 								<a href="https://apps.apple.com/us/app/fleteo/id6477316738" target="_blank" rel="noopener noreferrer">
-									<img className="app-badge" src="assets/img/app-store-badge.svg" alt="App Store Badge" />
+									<img className="app-badge" src="assets/app-store-badge.svg" alt="App Store Badge" />
 								</a>
 							</div>
 						</div>
@@ -38,7 +38,7 @@ export const HomeHeader = () => {
 							<div className="device-wrapper">
 								<div className="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">
 									<div className="screen bg-black">
-										<img src="assets/img/screen-fleteo-home.jpeg" style={{ maxWidth: '100%', height: '100%' }} alt="Pantalla principal de fleteo" />
+										<img src="assets/screen-fleteo-home.jpeg" style={{ maxWidth: '100%', height: '100%' }} alt="Pantalla principal de fleteo" />
 									</div>
 								</div>
 							</div>
