@@ -1,16 +1,16 @@
 {
-  "name": "fleteo-page",
+  "name": "page-prueba",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elivan-27.github.io/Sena",
+  "homepage": "https://elivan-27.github.io/page-prueba",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d dist && touch dist/.nojekyll"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
