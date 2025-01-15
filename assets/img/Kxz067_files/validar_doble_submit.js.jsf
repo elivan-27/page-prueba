@@ -1,0 +1,4 @@
+
+var requestSubmitted=false;function submitRequest(){if(!requestSubmitted){requestSubmitted=true;return true;}
+return false;}
+function resetRequest(){requestSubmitted=false;}
